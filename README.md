@@ -12,3 +12,7 @@
 1. Скомпилируйте файл:
    ```bash
    javac src/Main.java
+
+   Запустите программу:
+   
+   java -cp src Main
